@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "upnm",
+  "source_name": "Perpustakaan Universiti Pertahanan Nasional Malaysia",
+  "source_base_url": "https://lib.upnm.edu.my/",
+  "terms_url": "https://lib.upnm.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "upnm-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T08-14-19Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T08:14:26.251Z",
+  "finished_at": "2026-10-17T08:14:26.251Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/upnm; contact@pustakaterbuka.org)",
+  "notes": "UPNM harvest completed. Total: 0 records."
+}
